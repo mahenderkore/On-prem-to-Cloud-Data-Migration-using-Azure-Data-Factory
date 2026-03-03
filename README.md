@@ -11,7 +11,8 @@ This project demonstrates an end-to-end data migration and transformation pipeli
 
 📊 Aggregated into Gold Layer (Business Views)
 
-**Bronze: **
+**Bronze:**
+
 <img width="920" height="207" alt="image" src="https://github.com/user-attachments/assets/05c4e8d8-9f47-469a-a08f-6736caec12ee" />
 
 API Data:
